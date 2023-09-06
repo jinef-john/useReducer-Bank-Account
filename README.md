@@ -9,6 +9,22 @@ You cannot close an account if you have a loan or if your balance is not 0.
 
 ![ScreenShot](src/assets/demo.png)
 
+## Installation
+
+```bash
+npm install
+```
+
+## Usage
+
+```bash
+npm run dev
+```
+
+## Site
+
+To see the site in action, please visit [https://use-reducer-bank-account.netlify.app/](https://use-reducer-bank-account.netlify.app/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
